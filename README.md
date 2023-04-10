@@ -29,16 +29,19 @@ profitable during the early stage. During my analysis i picked 3 dates
 1. Jan 16, 2018
    -- the sum of the profit is 14147.169999999998
 Summary statistics full result 
-  image.png
+
+<img width="526" alt="Screenshot Early" src="https://user-images.githubusercontent.com/44585226/230806237-ad38305f-efa2-46c2-9966-3bf3fabfed6a.png">
 
 2. Feb 24, 2018 
    -- the sum of the profit is 330.0699999999997
 Summary statistics full result 
-image.png
+<img width="520" alt="Screenshoot Middle" src="https://user-images.githubusercontent.com/44585226/230806210-29abcc03-3c52-4a44-a37f-0c490fcd5ae6.png">
+
  
 
 3. March 26, 2018  
   -- the sum of the profit is $0 because 
 Summary statistics full result 
- 
-image.png
+ <img width="498" alt="Screenshoot Late" src="https://user-images.githubusercontent.com/44585226/230806199-2f11b6ed-2d8a-46cf-8455-c4ee5f9f2dbd.png">
+
+
