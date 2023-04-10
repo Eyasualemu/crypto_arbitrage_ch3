@@ -37,8 +37,6 @@ Summary statistics full result
 Summary statistics full result 
 <img width="520" alt="Screenshoot Middle" src="https://user-images.githubusercontent.com/44585226/230806210-29abcc03-3c52-4a44-a37f-0c490fcd5ae6.png">
 
- 
-
 3. March 26, 2018  
   -- the sum of the profit is $0 because 
 Summary statistics full result 
