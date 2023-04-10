@@ -1,10 +1,11 @@
-# crypto_arbitrage_ch3
+# Technology 
+ These are the technologies the user can use to run the solution -- Jupyter notebook  -- Python -- CSV file reader -- Github -- To download the solution file. It's saved in githun as public
 
-# Compare the Risks of a Portfolio of Stocks
+ # Contributors 
+ The solution is developed by Eyasu Alemu LinkdIn account -- https://www.linkedin.com/in/eyasu-a-684854112 Email -- Bekaqa01@gmail.com Phone Number -- 202 344 0733
 
-When you will compare a basket of stocks and determine if they are risky investments compared to the S&P 500.
 
-## Instructions
+## # crypto_arbitrage_ch3 Instructions and high level report 
 
 Using the starter code file and the provided CSV files, complete the following steps.
 
@@ -20,26 +21,28 @@ Using the starter code file and the provided CSV files, complete the following s
 
     - Parse all dates when the CSV is loaded.
     
-4. The analysis done in 3 different dates 
+4. The intial comparison done by visualizations for the bitstamp and coinbase DataFrames in one plot. That shows any diffrence between bitstamp and coinbase
+5. The analysis done in 3 different dates 
+
 After reviewing the profit information across each date from the different time periods it's more 
 profitable during the early stage. During my analysis i picked 3 dates 
     1. Jan 16, 2018
     2. Feb 24, 2018 
     3. March 26, 2018
-1. Jan 16, 2018
-   -- the sum of the profit is 14147.169999999998
-Summary statistics full result 
+    1. Jan 16, 2018
+    -- the sum of the profit is 14147.169999999998
+    Summary statistics full result 
 
-<img width="526" alt="Screenshot Early" src="https://user-images.githubusercontent.com/44585226/230806237-ad38305f-efa2-46c2-9966-3bf3fabfed6a.png">
+    <img width="526" alt="Screenshot Early" src="https://user-images.githubusercontent.com/44585226/230806237-ad38305f-efa2-46c2-9966-3bf3fabfed6a.png">
 
-2. Feb 24, 2018 
-   -- the sum of the profit is 330.0699999999997
-Summary statistics full result 
-<img width="520" alt="Screenshoot Middle" src="https://user-images.githubusercontent.com/44585226/230806210-29abcc03-3c52-4a44-a37f-0c490fcd5ae6.png">
+    2. Feb 24, 2018 
+    -- the sum of the profit is 330.0699999999997
+    Summary statistics full result 
+    <img width="520" alt="Screenshoot Middle" src="https://user-images.githubusercontent.com/44585226/230806210-29abcc03-3c52-4a44-a37f-0c490fcd5ae6.png">
 
-3. March 26, 2018  
-  -- the sum of the profit is $0 because 
-Summary statistics full result 
- <img width="498" alt="Screenshoot Late" src="https://user-images.githubusercontent.com/44585226/230806199-2f11b6ed-2d8a-46cf-8455-c4ee5f9f2dbd.png">
+    3. March 26, 2018  
+    -- the sum of the profit is $0 because 
+    Summary statistics full result 
+    <img width="498" alt="Screenshoot Late" src="https://user-images.githubusercontent.com/44585226/230806199-2f11b6ed-2d8a-46cf-8455-c4ee5f9f2dbd.png">
 
 
